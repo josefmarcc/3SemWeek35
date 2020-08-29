@@ -1,6 +1,6 @@
 # WEEK 35 REVIEW  
 
-## Status on exercise completion? 
+## Status on exercise completion:
 All exercises are completed.
 
 ## Tuesday 
